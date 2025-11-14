@@ -10,8 +10,11 @@ Oferecer recursos pedagógicos para docentes.
 Estudantes e docentes de graduação.
 
 ## 🗺️ Documentação do Projeto
-Mapa Conceitual: Visualizar no CmapsCloud[https://cmapscloud.ihmc.us/viewer/cmap/21XLK9Y20-1LJYJMM-B7NGKH]  
-Modelo Instrucional: Visualizar no Excalidraw[https://excalidraw.com/#json=Ov-9QdZZEed1ViFxOVV9K,z2yXPfPwRN_kqyPS1qJNPQ]
+Mapa Conceitual:  
+https://cmapscloud.ihmc.us/viewer/cmap/21XLK9Y20-1LJYJMM-B7NGKH  
+
+Modelo Instrucional:  
+https://excalidraw.com/#json=Ov-9QdZZEed1ViFxOVV9K,z2yXPfPwRN_kqyPS1qJNPQ  
 
 ## 🏗️ Arquitetura do Sistema
 Sistema distribuído com subsistemas especializados:
