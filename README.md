@@ -19,17 +19,17 @@ https://excalidraw.com/#json=Ov-9QdZZEed1ViFxOVV9K,z2yXPfPwRN_kqyPS1qJNPQ
 ## 🏗️ Arquitetura do Sistema
 Sistema distribuído com subsistemas especializados:
 
-Tratamento de Imagens: Conversão PDF→PNG, recorte e organização:  
+Tratamento de Imagens: Conversão PDF→PNG, recorte e organização: FINALZADO  
 https://github.com/AlexandreNP9/ENADE_CategorizacaoQuestoes_TratamentoImagens  
 
-Extração de Conteúdo: OCR para extração textual e descrição de figuras dos enunciados:  
+Extração de Conteúdo: OCR para extração textual e descrição de figuras dos enunciados: FINALIZADO    
 https://github.com/AlexandreNP9/ENADE_CategorizacaoQuestoes_ExtracaoConteudo  
 
-Análise e Categorização: Identificação de conteúdos, habilidades e análise de alternativas para criação de banco de dados:  
-A SER CRIADO  
+Análise e Categorização: Identificação de conteúdos, habilidades e análise de alternativas para criação de banco de dados: EM DESENVOLVIMENTO  
+https://github.com/AlexandreNP9/ENADE_CategorizacaoQuestoes_AnaliseLLM
 
-Interface de Acesso: CRUD com interface pesquisável:  
-A SER CRIADO  
+Interface de Acesso: CRUD com interface pesquisável: A DESENVOLVER  
+https://github.com/AlexandreNP9/ENADE_CategorizacaoQuestoes_Interface
 
 ## 🚀 Funcionalidades
 Processamento semi-automatizado de imagens e OCR
