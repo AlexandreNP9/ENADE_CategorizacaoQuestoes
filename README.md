@@ -1,6 +1,8 @@
 # ENADE - Categorização de Questões
 Repositório central do projeto de categorização das questões do ENADE (Exame Nacional de Desempenho dos Estudantes).
 
+Baseado nas [Diretrizes Curriculares Nacionais (DNCs)](https://www.gov.br/mec/pt-br/cne/normas-classificadas-por-assunto/diretrizes-curriculares-cursos-de-graduacao).
+
 ## 🎯 Objetivos
 Criar banco de dados categorizado e pesquisável das questões.  
 Fornecer material de estudo estruturado para estudantes.  
